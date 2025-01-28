@@ -117,3 +117,4 @@
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/AnimeAsp.pdb
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/AnimeAsp.genruntimeconfig.cache
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/ref/AnimeAsp.dll
+/home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/AnimeAsp.sourcelink.json

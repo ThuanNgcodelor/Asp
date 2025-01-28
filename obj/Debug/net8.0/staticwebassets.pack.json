@@ -41,6 +41,46 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/ElegantIcons.eot",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.eot"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/ElegantIcons.svg",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.svg"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/ElegantIcons.ttf",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.ttf"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/ElegantIcons.woff",
+      "PackagePath": "staticwebassets/fonts/ElegantIcons.woff"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff2"
+    },
+    {
       "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/img/anime/details-pic.jpg",
       "PackagePath": "staticwebassets/img/anime/details-pic.jpg"
     },

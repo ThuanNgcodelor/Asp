@@ -35,6 +35,7 @@ public class CategoryController : Controller
         var moviesByCategory = await _context.Movies
             .Where(m => m.Categories.Any(c => c.CategoryName == category.CategoryName))
             .ToListAsync();
+        
 
         // Pass the list of movies to the view
         return View(moviesByCategory);
