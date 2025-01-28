@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimeAsp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c4c03a198d90a53114c35b7f12ae04e8a251ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8b27056ab449172cb47aafc3cee4fe5a093899")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimeAsp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimeAsp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
