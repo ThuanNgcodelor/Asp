@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/scopedcss/projectbundle/AnimeAsp.bundle.scp.css",
-      "PackagePath": "staticwebassets/AnimeAsp.ky0xrqteec.bundle.scp.css"
-    },
-    {
       "Id": "/home/davidnguyen/Code/C#/AnimeAsp/wwwroot/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },

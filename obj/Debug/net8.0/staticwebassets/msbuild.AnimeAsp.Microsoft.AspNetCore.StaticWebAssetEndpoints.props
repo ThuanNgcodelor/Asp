@@ -1,17 +1,5 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/AnimeAsp/AnimeAsp.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AnimeAsp.ky0xrqteec.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5IkVQAE6cgb/NZ94SzDLC9CPVvqsKxe6NuO7xJFZEFc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1077"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225IkVQAE6cgb/NZ94SzDLC9CPVvqsKxe6NuO7xJFZEFc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 16:18:20 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/AnimeAsp/AnimeAsp.ky0xrqteec.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\AnimeAsp.ky0xrqteec.bundle.scp.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ky0xrqteec"},{"Name":"integrity","Value":"sha256-5IkVQAE6cgb/NZ94SzDLC9CPVvqsKxe6NuO7xJFZEFc="},{"Name":"label","Value":"_content/AnimeAsp/AnimeAsp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1077"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225IkVQAE6cgb/NZ94SzDLC9CPVvqsKxe6NuO7xJFZEFc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 20 Jan 2025 16:18:20 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AnimeAsp/css/bootstrap.min.1a8vupj5hk.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

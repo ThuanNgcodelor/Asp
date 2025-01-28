@@ -99,9 +99,7 @@
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/AnimeAsp.MvcApplicationPartsAssemblyInfo.cache
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/AnimeAsp.RazorAssemblyInfo.cache
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/AnimeAsp.RazorAssemblyInfo.cs
-/home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/scopedcss/bundle/AnimeAsp.styles.css
-/home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/scopedcss/projectbundle/AnimeAsp.bundle.scp.css
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/staticwebassets.build.json
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/staticwebassets.development.json
 /home/davidnguyen/Code/C#/AnimeAsp/obj/Debug/net8.0/staticwebassets.build.endpoints.json
